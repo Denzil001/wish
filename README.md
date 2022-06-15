@@ -1,2 +1,2 @@
 # wish
-this is my code, i made it from a video of ONLINE TUTORIALS
+this is not my code, i made it from a video of ONLINE TUTORIALS
